@@ -60,8 +60,6 @@ public class PriceFeedTask extends SourceTask {
 
     @Override
     public List<SourceRecord> poll() {
-        //log.info("Poll called");
-
         List<SourceRecord> records = new ArrayList<>();
 
         Price price = priceQueue.poll();

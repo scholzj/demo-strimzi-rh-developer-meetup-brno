@@ -8,8 +8,7 @@ The deployment instructions and YAML files are in the [`./deploy`](./deploy/) di
 
 ## Slides
 
-TODO:
-The slides from the talk can be found [here](https://docs.google.com/presentation/d/1CHvhccGpMz8-p7pSg5JSqnjHvKh5Jcxot8_hr5PVhZI/edit?usp=sharing).
+The slides from the talk can be found [here](https://docs.google.com/presentation/d/1rj_lzKMc8UK_53uNYz647zqK6PYzQ6JSavHNFVhUNQY/edit?usp=sharing).
 
 ## Demo recordings
 
